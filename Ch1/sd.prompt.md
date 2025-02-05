@@ -3,9 +3,7 @@ I need to create a cover art image for the novel using Stable Diffusion. Can you
 The image could choose from the photo took by Bosco (the reporter) in anime style.
 Avoid using the word "lolita" in the prompt as it will make the image illegal
 The image can focus on these:
-第一發子彈貫穿斐迪南大公的頸動脈,他仍試圖扶起胸口中彈的蘇菲;第二發則擊碎了他的心肺。人群如炸開的蟻窩潰散,我卻動彈不得——露臺上的少女正俯視這一切,傘尖輕點著警衛腰間的槍套,像是在無聲鼓掌。  
-普林齊普被捕時瘋狂嘶吼著塞爾維亞獨立口號,但我的菲林只留下一張照片:頂樓露臺的欄杆上,沾著一枚血指印,形狀宛如蝙蝠展翅。  
-you can take reference of 斐迪南大公遇刺事件
+後世史學家反覆分析那張模糊照片,卻沒人注意底片邊緣被雨水暈染的暗紅輪廓──那形狀像極了翅膀收攏的蝙蝠,也像少女屈膝行禮時的裙襬皺摺。
 ```
 
 (Anime art style:1.3), 1914 Sarajevo street scene, dramatic perspective from reporter's camera angle, 
