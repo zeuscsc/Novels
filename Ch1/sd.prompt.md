@@ -13,3 +13,7 @@ Left sid of the image: Hitman shooting Archduke Ferdinand clutching bleeding nec
 Right side of the image: (Touhou Remilia Scarlet with light medium short blue hair and light pink dress:1.4) leaning on parasol, faint bat-wing shadow cast on wall, 
 Oppressive storm clouds with yellow tint, Blood, Old-fashioned press camera floating smoke from burnt film, Vintage newspaper fragments flying in air, 
 Highly detailed historical uniforms mixed with Gothic textures, 8k resolution, dramatic chiaroscuro lighting
+
+Anime-style war documentary photo, 1914 Sarajevo street scene, telephoto lens perspective from rooftop, muted sepia tones with blood-red accents. Central subject Vintage 1910 Graf and Stift convertible car with Archduke Franz Ferdinand and Duchess Sophie slumped over seat. Blood splatters on cobblestones. 
+Touhou Remilia with medium short light blue hair and white pink doll dress is within the crowd.
+Photo texture is grainy wartime press camera effect with motion blur on fleeing crowd, faint film scratch overlay, vignette darkening edges.
