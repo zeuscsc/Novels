@@ -1,1 +1,0 @@
-help me write a story using Touhou project, i would like the background set in World World I, just like "The Saga of Tanya the Evil" since The Saga of Tanya the Evil have copyright, don't use their characters. Use World World I event with Touhou Project characters but intergrate the historical event like "The Saga of Tanya the Evil" does. Output in zh-tw
