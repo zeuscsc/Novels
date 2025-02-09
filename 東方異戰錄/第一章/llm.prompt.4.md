@@ -41,5 +41,5 @@ Following is some extra example from the above outline:
 
 少女朝著我微微一笑，那笑容溫柔而優雅，卻又帶著一絲難以言喻的詭異。  她的聲音輕柔而空靈，如同夜風拂過樹梢：
 
-「歡迎來到，紅魔館。」
+「我是十六夜咲夜，歡迎來到，紅魔館。」
 ```
