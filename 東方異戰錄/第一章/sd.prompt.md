@@ -1,30 +1,3 @@
-```
-I need an image for one of my chapter in my Noval.
-I would like to get the prompt for generate the image using FLUX - a Stable Diffusion style Image Generator. I would like to get the prompt for generate the image for the scene. Remember Avoid using the word "lolita" and "16 years old" in the prompt as it will make the image illegal.
-Here is the description of the scene:
-大廳的空間極為開闊，高聳的拱形天花板上繪滿了色彩斑斕的壁畫，描繪著一些奇異的生物和場景，在紅色的月光映照下，顯得格外詭異。大廳中央，一座由不知名銀色金屬打造而成的王座，靜靜地佇立在那裡，散發著冰冷的光澤。
-
-王座之上，坐著一位少女。
-
-她的身形嬌小，卻散發著一股與之不符的威嚴與莊重。她那頭短短的淡藍色短髮，有如暴風雨前的天空，柔和而帶點神秘。最引人注目的是她那雙眼睛，鮮紅如血，彷彿蘊藏著無盡的秘密。
-
-少女頭上戴著一頂淡粉色的帽子，帽子的左側繫著一個巨大的紅色蝴蝶結，鮮豔的紅色在淡粉色的襯托下，顯得格外醒目。而在她的背後，在洋裝的後腰處，同樣也繫著一個巨大的蝴蝶結，與帽子上的蝴蝶結相互呼應。
-
-她以一種威嚴的姿態端坐在王座之上，目光平靜地注視著我，紅色的眼眸中，沒有絲毫的波瀾，卻彷彿能洞穿一切。
-
-鐵器破空聲從四面八方襲來,十二柄飛刀自暗處浮現,刀尖距我咽喉僅餘半寸。冷汗滑過後頸時，我沒有意識到女僕何時消失又重現——紅的掌心疊在我的快門按鈕上，溫度比林間積雪更冷。
-
-閃光燈炸裂的瞬間，我在她虹膜深處看見不屬於人類的鏡面反射。那不是倒影，而是某種深紅座標，像子彈穿透防彈玻璃留下的輻射狀裂痕。
-Important!!!:The girl in the throne looks like 蕾米莉亞·斯卡蕾特 in 東方Project.頭上戴著一頂淡粉色的帽子，帽子的左側繫著一個巨大的紅色蝴蝶結，鮮豔的紅色在淡粉色的襯托下，顯得格外醒目。而在她的背後，在洋裝的後腰處，同樣也繫著一個巨大的蝴蝶結，與帽子上的蝴蝶結相互呼應。
-
-I would like the image to be Anime style and it also looks like it took from a old camera from World World I period.
-You can add these features to the prompt as well.
-
-Here are some examples:
-Anime-style illustration of a mysterious gothic mansion under a blood-red moon, featuring dark crimson stone walls and towering spires casting long shadows through the red mist. Deep, hollow, eye-like windows exude an ominous aura. In the foreground, a silver-haired maid reminiscent of a character from Touhou Project Izayoi Sakuya, with short hair, thin side braids tied with emerald-green ribbons, and striking crimson eyes. She wears a classic blue-and-white Victorian-inspired maid outfit with a slightly puffed skirt, evoking a sense of grace and agility and was standing infront of the mansion's door at the center welcoming the guest. The scene is illuminated by dim red huge moonlight at top center, captured with an early 20th-century photographic effect including a sepia tone, soft edges, and a subtle grainy texture, merging vintage World War I aesthetics with modern anime character design, highlighting muted colors with vibrant touches of green and crimson.
-```
-
-```Gemini
 I would like to get the prompt for generate the image using FLUX - a Stable Diffusion style Image Generator.
 You have done it countless times before and did a great job. Here is what you give me before
 ```history Stable Diffusion Prompt
@@ -40,27 +13,14 @@ Technical details:  8k resolution, sharp focus, finely detailed.
 ```
 
 Avoid using the word "lolita" and "16 years old" in the prompt.
-
+I also want Hayao Miyazaki anime style.
+Prompt can't be too long (within 1500 words)
 Convert the following text to stable diffusion prompt for me:
 ```Stable Diffusion Prompt
-A highly detailed, cinematic scene set in a vintage 1913 European café in Bucharest. Three passionate Balkan journalists (two men, one woman) sit at a weathered oak table near sunlit arched windows, golden morning light casting soft shadows on leather-bound books, scattered newspapers, and steaming porcelain coffee cups. The woman, wearing a high-collared ivory blouse and burgundy skirt, gestures earnestly toward a faded map of the Balkans while a bearded man in a tweed waistcoat studies notes beside a book titled Stefan cel Mare Chronicles. Another man in a pinstripe suit leans forward intently, fingers tracing battle lines on a newspaper headlined "OTTOMAN DEFEAT". Warm sepia tones blend with the aroma of fresh bread visible as wispy shadows near a counter displaying silver samovars. Art nouveau wall sconces cast amber glows on pressed tin ceilings, the atmosphere buzzing with intellectual urgency. Stylized as a oil painting blend of Norman Rockwell's character depth and John Atkinson Grimshaw's luminous interiors, with dramatic chiaroscuro highlighting determined faces and symbolic clinking coffee cups in foreground.
+野獸倒地後，抽搐了几下，便彻底没了动静。森林再次恢复了寂静，只剩下我们三人急促的呼吸声。罗米莉亚脸色苍白，仍惊魂未定，博格丹的额头渗出了汗珠，他按著受傷的手臂，鮮血仍舊從指縫間不斷湧出，但他脸上却带着一丝劫后余生的庆幸。而我，紧握着手中的枪，目光仍然警惕地扫视着周围的树林。
 ```
 
-
-
-Here is the description of the scene:
-大廳的空間極為開闊，高聳的拱形天花板上繪滿了色彩斑斕的壁畫，描繪著一些奇異的生物和場景，在紅色的月光映照下，顯得格外詭異。大廳中央，一座由不知名銀色金屬打造而成的王座，靜靜地佇立在那裡，散發著冰冷的光澤。
-
-王座之上，坐著一位少女。
-
-她的身形嬌小，卻散發著一股與之不符的威嚴與莊重。她那頭短短的淡藍色短髮，有如暴風雨前的天空，柔和而帶點神秘。最引人注目的是她那雙眼睛，鮮紅如血，彷彿蘊藏著無盡的秘密。
-
-少女頭上戴著一頂淡粉色的帽子，帽子的左側繫著一個巨大的紅色蝴蝶結，鮮豔的紅色在淡粉色的襯托下，顯得格外醒目。而在她的背後，在洋裝的後腰處，同樣也繫著一個巨大的蝴蝶結，與帽子上的蝴蝶結相互呼應。
-
-她以一種威嚴的姿態端坐在王座之上，目光平靜地注視著我，紅色的眼眸中，沒有絲毫的波瀾，卻彷彿能洞穿一切。
-
-鐵器破空聲從四面八方襲來,十二柄飛刀自暗處浮現,刀尖距我咽喉僅餘半寸。冷汗滑過後頸時，我沒有意識到女僕何時消失又重現——紅的掌心疊在我的快門按鈕上，溫度比林間積雪更冷。
-
-閃光燈炸裂的瞬間，我在她虹膜深處看見不屬於人類的鏡面反射。那不是倒影，而是某種深紅座標，像子彈穿透防彈玻璃留下的輻射狀裂痕。
-Important!!!:The girl in the throne looks like 蕾米莉亞·斯卡蕾特 in 東方Project.頭上戴著一頂淡粉色的帽子，帽子的左側繫著一個巨大的紅色蝴蝶結，鮮豔的紅色在淡粉色的襯托下，顯得格外醒目。而在她的背後，在洋裝的後腰處，同樣也繫著一個巨大的蝴蝶結，與帽子上的蝴蝶結相互呼應。
-```
+Meta data:
+The main Character is a Serbia Journalists name "Serbosco Petrovic" (A Young pinstripe suit boy with black hair)
+The second character is a Romania Journalists name "Romilia Ionescu " (Brown-eyed woman, center, calm, ivory blouse, burgundy skirt, notepad, determined gaze, short to medium hair)
+The third character is a Bulgarian Journalists name "Bogdan Dimitrov" (A Mature brown bearded man, serious)
