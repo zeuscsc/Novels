@@ -1,6 +1,6 @@
 I would like to write a chapter of a noval in zh-tw and only zh-tw. Double check if the output is all zh-tw.
 The Year is 1912.
-The main Character is a 25 Years old Serbian Journalists who works in (Bosnische Post) name "Bosco" (博斯科) who live in Bosnia.
+The main Character is a 23 Years old Serbian Journalists who works in (Bosnische Post) name "Bosco" (博斯科) who live in Bosnia.
 The story would be told from the main character (Bosco) point of view, alike a documentary.
 No need to create any name except the definded characters.
 The chapter would be like this:
