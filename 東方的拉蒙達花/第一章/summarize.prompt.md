@@ -234,6 +234,6 @@ Summarize the following novel paragraphs into English in a paragraph:
 
 ---
 
-### <div align="center"></div>
+
 ```
 
