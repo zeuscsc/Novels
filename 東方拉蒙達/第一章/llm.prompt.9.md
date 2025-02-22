@@ -9,7 +9,16 @@ I go to Prosvjeta(Serbian Cultural Association) the next day, I found the studen
 One of them told me his name is Gavrilo Princip, and he told me he saw what I did and glad I stood up when nobody else did.  We Yugoslavs Brothers and Sisters should all stand out together. I helped him stick the posters on the walls.
 After the event, Princip invited me to his friend's father's Cafe in Sarajevo.
 We introduced ourselevs to each other, Princip's friend was called Nedeljko Čabrinović and they are exciting knowing that I am a Journalist.
-
+They are so excited and keep talking about the latest news, asking about my opinions. 
+I reply them the newly independent Kingdom of Serbia, as the free part of the south Slavs, was obligated to help unify the southern Slavic peoples such as us the Serbian in Bosnia. Unlike us hands are tied, they are free to call for more help against Austia-Hungary.
+They looks very surprised and then very happy that we share the same ideas.
+Our talks goes even more passionate and deep.
+After the topics switched to balkan war, Princip to me that he actually went to a recruitment office in Belgrade to volunteer his service with the komite, the irregular Serbian units. He was being rejected because of his small build, he traveled to a different recruitment office this time in Prokuplje, north of the Turkish frontier in southern Serbia. He met Major Vojislav Tankosić, the commander of all Komite units and they rejected Princip for being too small and looking too weak as well.
+Princip told me that he really wants to do something for the south Slavs and the Komite shouldn't reject him.
+Princip also tole me that just a few months ago,  he took part in a demonstration against the Habsburg authority in Sarajevo, organised by a Croat student from Bosnia.  They burned a Hungarian flag and many were injured and arrested by the police. During the scuffle Princip was hit with a sabre and his clothes were torn. The following day the students declared a general strike, and for the first time in Bosnian history, Croats, Serbs and Muslims took part together.
+Princip also told me he went from class to class, threatening with his knuckle-duster all the boys who wavered in coming to the new demonstrations. As a result of his conduct and his involvement in the demonstrations against Austro-Hungarian authorities, Princip was expelled from school.
+Princip was larghing when he told me those events as if it was nothing.
+Then I realise the sky has become dark, we exchange our contact information and left the cafe.
 ```
 
 Following are the key features from pervious chapters just for reference:
@@ -20,9 +29,49 @@ Set against the backdrop of early 20th-century Bosnia under Austro-Hungarian rul
 Remember you need to follow my above points for my current chapter first then reference the following example. Also the example may have too much details that is not related to the main points, too much details may make readers hard to read. Good descriptive ability is important but don't add to much that is not related to the main story points from above. Only give me the final modified version
 Following are some extra examples from the above outline:
 ```first example
+隔天，我前往普羅斯維耶塔 (塞爾維亞文化協會)，找到了昨天在街上派發傳單的學生們。
+
+其中一位認出了我，他告訴我他的名字是加夫里洛·普林西普。他說他昨天看見我的舉動了，並且很高興在沒有其他人挺身而出時，我願意站出來。「我們南斯拉夫的兄弟姐妹們都應該團結一致！」他激動地說著。我幫忙他將海報貼在牆上。
+
+活動結束後，普林西普邀請我到他朋友父親在薩拉熱窩經營的咖啡館。
+
+我們互相介紹自己，普林西普的朋友名叫內德利科·查布里諾維奇。他們得知我是記者，顯得非常興奮。
+
+他們興高采烈地談論著最新的新聞，並不斷詢問我的看法。
+
+我向他們闡述我的觀點：「新近獨立的塞爾維亞王國，作為南斯拉夫自由的土地，有義務幫助統一包括我們波士尼亞塞爾維亞人在內的南部斯拉夫民族。不像我們被束縛，他們可以自由地呼籲更多力量來對抗奧匈帝國。」
+
+他們聽了，先是露出驚訝的表情，隨後轉為欣喜若狂，顯然我們有著相同的理念。
+
+我們的談話變得更加熱烈和深入。
+
+話題轉到巴爾幹戰爭時，普林西普告訴我，他實際上曾前往貝爾格勒的招募處，自願加入科米塔吉 (塞爾維亞非正規部隊)。但他因為身材矮小而被拒絕。他不放棄，又前往另一個招募處，這次是在土耳其邊境以北的普羅庫普列。在那裡，他遇到了所有科米塔吉部隊的指揮官沃伊斯拉夫·坦科西奇少校，但仍舊因為他看起來太過瘦弱而被拒絕。
+
+普林西普告訴我，他真的很想為南斯拉夫人做些什麼，科米塔吉不應該拒絕他。
+
+普林西普還說，就在幾個月前，他參加了在薩拉熱窩舉行的反對哈布斯堡政權的示威活動，那次活動是由一位來自波士尼亞的克羅埃西亞學生組織的。他們焚燒了一面匈牙利國旗，許多人在衝突中受傷或被捕。在混亂中，普林西普被軍刀擊中，衣服也被撕破。第二天，學生們宣布舉行總罷工，在波士尼亞歷史上，克羅埃西亞人、塞爾維亞人和穆斯林第一次共同參與了罷工。
+
+普林西普還說，他挨個教室地走，用他的指節銅套威脅所有在參加新示威活動中猶豫不決的男生。由於他的行為以及參與反對奧匈帝國當局的示威活動，普林西普被學校開除了。
+
+普林西普在講述這些事件時哈哈大笑，彷彿這一切都微不足道。
+
+這時我才意識到天空已經昏暗下來，我們互相交換了聯絡方式，然後離開了咖啡館。
 ```
 
 ```second example
+街角麵包店的黃銅鈴鐺仍在晃動，我踩著晨露踏進普羅夫耶塔協會的大廳。昨日散發傳單的學生們正蹲在地上整理油印資料，石膏像投射的影子恰好覆住他們單薄的肩胛。
+
+「博斯科先生！」其中一人突然起身，沾著油墨的拇指在褲管留下痕跡。他的顴骨過分突出，像未包漿的核桃殼：「我是加夫里洛·普林西普。您昨天扯下古雷西奇那頂土耳其氈帽的模樣——」他將手掌按在斑駁的牆面，指甲蓋泛著灰藍色，「簡直像卡拉喬爾傑大公在砍奧斯曼旗杆。」
+
+我注意到他袖口露出的瘀痕，那是薩拉熱窩警察署馬刀獨有的新月狀創口。我們搬來木梯張貼海報時，他的頸椎在襯衫領口間顯出病態的稜角。當他昂首將糨糊刷向高處，喉結在蒼白皮膚下滑動的模樣令人聯想到吞嚥毒丸的蛇。
+
+咖啡館的瓷磚映著多瑙河水紋，切布里諾維奇父親的虹吸壺正翻滾黑浪。「所以《波斯尼亞郵報》真的會刊登總督府的演說稿？」切布里諾維奇用茶匙戳破奶皮，他左眉缺了道豁口，像被火藥灼穿的引信。
+
+我轉動杯托上哈布斯堡雙頭鷹紋章：「就像往血酒裡摻煤油。但二十萬塞爾維亞礦工每週閱讀的波黑新聞專欄⋯⋯」停頓讓喉間的苦澀蔓延得更徹底，「有時也需要嫁接葡萄藤的枝條。」
+
+普林西普忽然笑出聲，震落桌沿的罌粟籽。這笑聲在他胸腔裡發出空罐迴響，彷彿某個殉道者的頭骨被做成聖物匣。「上個月在貝爾格萊德，那些灰色制服的科米塔吉說我連步槍托都抵不住。」他褪下外套展示肋間凹陷的陰影，確實像未發育完全的雛鳥。「坦克奧西奇少校卻在帳篷裡抽土耳其煙——他說我的子彈應該裝進課本。」
+
+暮色滲透桌布金線時，普林西普捲起衣袖，指節包裹的銅製虎指閃著冷光。「那天在巴什查希亞廣場，布達佩斯旗幟燃燒的焦油味混著克羅地亞女孩的髮香。您聞過被劈開的血腥味嗎？像銹蝕的德瑪夏爾克刀鞘⋯⋯」他的瞳孔隨煤氣燈焰收縮，而咖啡館外窗框正框住拉丁橋的剪影。
 ```
 
 Here is the pervious Chapter for reference:
