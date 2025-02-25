@@ -5,13 +5,14 @@ The story would be told from the main character (Bosco) point of view, alike a d
 No need to create any name except the definded characters.
 The chapter would be like this:
 ```Current Chapter Key Points
-Another day in the Bosnische Post office. Author call me to go to his office again.
-He told me those Serbian Students is out of their line these days. The country need to beat them and teach them a lesson.
-He yall at me and order me to write a editorial on the problem on too much freedom for students and encourage the population to stop them.
-"He who wants to live, let him die. He who wants to die, let him live, We always have a choice" Princip voice pop up in my head.
-I go back to my seat and take out the resignation letter I prepared long time ago. I go back to Author's office and mumbling "I want to quit". Author raise up his voice "What did you just say?". I take a deep breath and shout out "Here is my resignation letter!" and turn back and leave the office.
-Although I am still a bit worry about the money for livings, but I have never felt so releaveing.
-Eventhrough I quit the job, I still plan to use what I do best for a living and support the cause.
+Another day in the Bosnische Post Author's office.
+Author(主編) ask me if I have ever heard of the thing called Machine Gun. I told him I have heard it had been used in some colonial conflicts and the Machine Gun can fire many rounds of bullets in a minute and it may change the battlefield forever.
+Author disagree, he think people are over-optimism about the range and accuracy of machine guns. "These machine guns fire a lot of bullets, yes, but at long range, they are not very accurate. You might fire hundreds of rounds and still not hit much. A well-aimed rifle shot is still more effective at distance."
+Author: "Courage, spirit, and bayonet charges are the key.  The moral qualities would ultimately decide battles."
+Author: "Look at the Russo-Japanese War a few years ago, during the Siege of Port Arthur, the Russian deploy lots Maxim machine guns and the Japanese still won the battle.
+"Any how, the army still have lots of debate on this matter." Author continuous "I heard that the Serbs are also deploying Maxim machine guns in the Balkan War."
+"I want you to go there and give me some material for me to write. It also sounds like you don't know much about this topic, which is better because you will be more neutral then." Author added.
+So I start packing my things and prepare to go to Belgrade then the Balkan frontline as battlefield reporter.
 ```
 
 Following are the key features from pervious chapters just for reference:
@@ -22,9 +23,37 @@ In early 20th-century Sarajevo, a journalist named Bosko navigates his disillusi
 Remember you need to follow my above points for my current chapter first then reference the following example. Also the example may have too much details that is not related to the main points, too much details may make readers hard to read. Good descriptive ability is important but don't add to much that is not related to the main story points from above. Only give me the final modified version
 Following are some extra examples from the above outline:
 ```first example
+主編今天突然問我，有沒有聽說過一種叫做「機關槍」的東西。我告訴他，略有耳聞，聽說在一些殖民地衝突中使用過，這種機關槍可以在一分鐘內射出大量的子彈，可能會永遠改變戰場的樣貌。
+
+主編聽了，不太同意我的看法。他認為人們對機關槍的射程和準確性過於樂觀了。「這些機關槍，的確能射出很多子彈，這點沒錯。但是在遠距離上，它們的準確度實在不高。你可能射出成百上千發子彈，也打不中什麼目標。在遠距離作戰，還是訓練精良的步槍手一發精準的射擊更有效。」
+
+主編接著又說：「真正決定戰鬥勝負的，還是勇氣、精神和刺刀衝鋒。士氣這種看不見摸不著的東西，才是最終的決定性因素。」
+
+主編還舉例：「看看幾年前的日俄戰爭，在旅順要塞的圍城戰中，俄軍部署了大量的馬克沁機槍，結果日本人還是贏得了那場戰役。」
+
+「總之，軍方內部對這個問題還是有很多爭論。」主編繼續說道：「我聽說塞爾維亞人也在巴爾幹戰爭中部署了馬克沁機槍。」
+
+「我想你去那邊一趟，給我帶回一些第一手的資料，讓我來寫點東西。而且，聽起來你對這個話題也不是很了解，這樣更好，你寫出來的東西會更中立一些。」主編補充道。
+
+就這樣，我開始收拾行囊，準備先前往貝爾格勒，然後再到巴爾幹前線，以戰地記者的身分進行採訪。
 ```
 
 ```second example
+鉛灰色晨曦剛爬上《波斯尼亞郵報》編輯室的彩窗，主編的雪茄霧便纏上了我的打字機。「博斯科，你聽過『機關槍』這玩意嗎？」他將雙腳擱在胡桃木桌上，金絲眼鏡滑至鼻尖。
+
+我停下敲擊鍵盤的手指。殖民地傳來的戰報在抽屜深處隱隱發燙，上週密訪加夫里洛時，他腰間的手榴草圖突然浮現腦海。「聽說在非洲殖民地用過，」我直視窗櫺間漏下的光斑，「一分鐘能傾瀉五百發子彈，或許會改寫戰場法則。」
+
+「天真！」主編用菸頭戳碎我的話尾，恰似三個月前他劃掉我悼念熱拉伊契的段落。「那些鐵棺材準頭比醉漢嘔吐還差，三百碼外子彈能描出整本聖經。真要取人性命——」他從鍍金筆筒抽出鵝毛筆，猛刺桌面的蘇菲亞大教堂明信片，「還得靠這個！」
+
+起身時柚木地板在他靴底呻吟，牆上拿破崙三世贈勳照隨之晃動。「日俄戰爭時滿洲怎麼打的？俄國佬在旅順要塞架滿馬克沁機槍，最後還不是被皇軍的刺刀海淹沒。」褐黃吐息噴在我剛校對完的招兵廣告校樣上，「三色堇騎士團的血勇氣魄，可比十挺吃子彈的笨鐵有用。」
+
+我不自覺按向左胸內袋，加夫里洛贈我的詩稿正在心跳下沙沙作響。主編突然俯身逼視，鏡片閃過沙皇密使前週來訪時的寒光。「何況現在巴爾幹火藥桶又冒煙，聽說塞爾維亞人偷運了四挺馬克沁到科索沃邊境。」他將戰地記者證摔在我的德語-塞語字典上，震落夾在其中的革命傳單殘頁。
+
+「你去貝爾格勒前線走趟，搞點像樣的報導。」他的銀柄拆信刀正剖開墨水瓶投下的陰影，「就憑你這半吊子軍事知識，說不定反而能寫出帝國陸軍部愛看的『中立』分析？」
+
+我盯著證件上哈布斯堡雙頭鷹徽，鐵翼正壓著農夫從我老家諾維薩德寄來的血書。加夫里洛上月在拉丁橋畔的低語忽隨多瑙河風灌入百葉窗：「當報導成為枷鎖，記者筆尖就是最怯懦的刺刀。」
+
+鐵軌晃動聲已在我捆綁採訪器材的手指間震響。八號月台列車噴出的蒸氣，正偷偷漫過奧匈帝國邊境地圖上墨跡未乾的防線。
 ```
 
 Here is the pervious Chapter for reference:
